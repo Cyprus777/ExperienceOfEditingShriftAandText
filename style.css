@@ -1,0 +1,31 @@
+.some-text {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* 
+        Добавляет линию к тексту элемента. В значении указывается стиль линии.
+     */
+.some-text2 {
+    font-family: "Arial";
+    text-decoration: line-through double red;
+}
+
+.some-text3 {
+    font-family: "Arial";
+    text-decoration: overline dotted green;
+}
+
+.some-text4 {
+    font-family: "Arial";
+    text-decoration: underline dashed blue;
+}
+
+.some-text5 {
+    font-family: "Arial";
+    text-decoration: line-through wavy blueviolet;
+}
